@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on college affairs
+- 🌱 I’m currently learning python, kotlin, Android
+- ⚡ Fun fact: I am a fuckin' noob
+
 <!--
 **Eterocell/Eterocell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
