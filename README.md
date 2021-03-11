@@ -44,10 +44,10 @@
 #### Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eterocell)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](Mailto:eterocell@outlook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Mailto:eterocell@gmail.com)
+[![Outlook](https://img.shields.io/badge/eterocell@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](Mailto:eterocell@outlook.com)
+[![Gmail](https://img.shields.io/badge/eterocell@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Mailto:eterocell@gmail.com)
 [![Twitter](https://img.shields.io/badge/Eterocell%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Eterocell/)
 
 #### Or Gaming?.. (DONT)
 
-[![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198107269769)
+[![Steam](https://img.shields.io/badge/Steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198107269769)
