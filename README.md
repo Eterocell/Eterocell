@@ -3,8 +3,10 @@
 ### About me
 
 * A 21 years old Computer Science undergraduate from China.
-* Learning OS, wish to write a toy one.
-* Personal Blog @ [eterocell.com](https://eterocell.com/)
+* Learning OS, wish to write a somehow bootable one.
+* Interested in programming language, compilers and Android Development (both App and low level).
+* Though I am not good at math. 😅
+* Personal Blog [eterocell.com](https://eterocell.com/) (Simplified Chinese only)
 
 ---
 
