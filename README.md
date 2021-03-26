@@ -2,7 +2,7 @@
 
 ### About me
 
-* A 21 years old Computer Science undergraduate from China.
+* A 21-year-old Computer Science undergraduate from China.
 * Learning OS, wish to write a somehow bootable one.
 * Interested in programming language, compilers and Android Development (both App and low level).
 * Though I am not good at math. 😅
