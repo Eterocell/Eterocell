@@ -4,7 +4,7 @@
 
 * A 21-year-old Computer Science undergraduate from China.
 * Learning OS, wish to write a somehow bootable one.
-* Interested in programming language, compilers and Android Development (both App and low level).
+* Interested in programming language, compilers and Android Development.
 * Though I am not good at math. 😅
 * Personal Blog [eterocell.com](https://eterocell.com/) (Simplified Chinese only)
 
